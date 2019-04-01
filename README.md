@@ -1,5 +1,5 @@
 # share-concurrency-in-go
-a share in my company about concurrency in golang
+a share about concurrency in golang
 # Reference
 [1] [Concurency in go](https://github.com/jinyaozhuzhu/share-concurrency-in-go/blob/master/doc/Concurrency_in_Go.pdf)
 
