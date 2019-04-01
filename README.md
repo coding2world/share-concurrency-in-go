@@ -1,5 +1,5 @@
 # share-concurrency-in-go
-a share about concurrency in golang，[ppt](https://github.com/coding2world/share-concurrency-in-go/blob/master/doc/Share_Concurrency_in_Go.pdf)
+a share about concurrency in golang，[PDF](https://github.com/coding2world/share-concurrency-in-go/blob/master/doc/Share_Concurrency_in_Go.pdf).
 # Reference
 [1] [Concurency in go](https://github.com/jinyaozhuzhu/share-concurrency-in-go/blob/master/doc/Concurrency_in_Go.pdf)
 
